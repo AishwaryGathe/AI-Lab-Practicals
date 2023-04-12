@@ -7,7 +7,7 @@ AI is a broad field that encompasses various subfields, such as machine learning
 ![](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=1000w)
 
 
-# why we should learn AI
+# Why we should learn AI
 
 There are several reasons why we should learn AI:
 
