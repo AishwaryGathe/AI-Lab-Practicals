@@ -10,6 +10,8 @@ The game can be won in eight different ways - three horizontal, three vertical, 
 
 Overall, the logic behind Tic Tac Toe is to outsmart your opponent by planning ahead, anticipating their moves, and creating lines of your symbols on the grid while preventing them from doing the same.
 
+![GIF url](https://geekflare.com/wp-content/uploads/2021/08/Tic-Tac-Toe-Win-Gameplay-2-e1629210887925.png "autoplay, loop")
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
