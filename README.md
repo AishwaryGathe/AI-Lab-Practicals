@@ -4,7 +4,7 @@ AI stands for Artificial Intelligence, which refers to the simulation of human i
 
 AI is a broad field that encompasses various subfields, such as machine learning, deep learning, natural language processing, robotics, computer vision, and expert systems. AI has numerous applications in industries such as healthcare, finance, education, transportation, and entertainment, among others, and is rapidly transforming the way we live and work.
 
-![GIF url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVC4rCwlGP7NSvjnKzLjESgh1ONzgIFiygA&usqp=CAU "autoplay, loop")
+<img align="right" alt="coding1" width="300" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 # Why we should learn AI
