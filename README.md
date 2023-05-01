@@ -10,7 +10,7 @@
 
 # Why we should learn AI
 
-There are several reasons why we should learn AI:
+<b><i>There are several reasons why we should learn AI:</i></b>
 
 <p align="justify">Career opportunities: AI is a rapidly growing field, and there is a high demand for professionals with AI skills. Learning AI can open up new career opportunities in various industries, such as healthcare, finance, transportation, and entertainment.</p>
 
